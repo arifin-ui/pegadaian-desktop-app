@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BDCF8519-F912-4AF5-80B8-3FB73DCFE418}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplikasi_Pegadaian.My.MyApplication</StartupObject>
+    <RootNamespace>Aplikasi_Pegadaian</RootNamespace>
+    <AssemblyName>Aplikasi Pegadaian V.1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\kumpu\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplikasi Pegadaian V.1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplikasi Pegadaian V.1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>366E496DF0892DAA2F39796B72D4BA3C291AA706</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Aplikasi Pegadaian V.1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.5\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="konfirmasi_gadai.Designer.vb">
+      <DependentUpon>konfirmasi_gadai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="konfirmasi_gadai.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="konfirmasi_gadai_petugas.Designer.vb">
+      <DependentUpon>konfirmasi_gadai_petugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="konfirmasi_gadai_petugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="konfirmasi_tebusan.Designer.vb">
+      <DependentUpon>konfirmasi_tebusan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="konfirmasi_tebusan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="konfirmasi_tebusan_petugas.Designer.vb">
+      <DependentUpon>konfirmasi_tebusan_petugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="konfirmasi_tebusan_petugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_barang_petugas.Designer.vb">
+      <DependentUpon>pop_up_barang_petugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_barang_petugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_nasabah_petugas.Designer.vb">
+      <DependentUpon>pop_up_nasabah_petugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_nasabah_petugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_perpanjangan.Designer.vb">
+      <DependentUpon>pop_up_perpanjangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_perpanjangan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlogin.Designer.vb">
+      <DependentUpon>Formlogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formadmin.Designer.vb">
+      <DependentUpon>Formadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formpetugas.Designer.vb">
+      <DependentUpon>Formpetugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formpetugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module_Koneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pop_up_barang.Designer.vb">
+      <DependentUpon>pop_up_barang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_barang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_nasabah.Designer.vb">
+      <DependentUpon>pop_up_nasabah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_nasabah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_transaksi.Designer.vb">
+      <DependentUpon>pop_up_transaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_transaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_transaksi_petugas.Designer.vb">
+      <DependentUpon>pop_up_transaksi_petugas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_transaksi_petugas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SURAT_PEGADAIAN_PETUGAS.Designer.vb">
+      <DependentUpon>SURAT_PEGADAIAN_PETUGAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SURAT_PEGADAIAN_PETUGAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SURAT_PENGGADAIAN.Designer.vb">
+      <DependentUpon>SURAT_PENGGADAIAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SURAT_PENGGADAIAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SURAT_TEBUSAN.Designer.vb">
+      <DependentUpon>SURAT_TEBUSAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SURAT_TEBUSAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SURAT_TEBUSAN_PETUGAS.Designer.vb">
+      <DependentUpon>SURAT_TEBUSAN_PETUGAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SURAT_TEBUSAN_PETUGAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="konfirmasi_gadai.resx">
+      <DependentUpon>konfirmasi_gadai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="konfirmasi_gadai_petugas.resx">
+      <DependentUpon>konfirmasi_gadai_petugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="konfirmasi_tebusan.resx">
+      <DependentUpon>konfirmasi_tebusan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="konfirmasi_tebusan_petugas.resx">
+      <DependentUpon>konfirmasi_tebusan_petugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_barang_petugas.resx">
+      <DependentUpon>pop_up_barang_petugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_nasabah_petugas.resx">
+      <DependentUpon>pop_up_nasabah_petugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_perpanjangan.resx">
+      <DependentUpon>pop_up_perpanjangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlogin.resx">
+      <DependentUpon>Formlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formadmin.resx">
+      <DependentUpon>Formadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formpetugas.resx">
+      <DependentUpon>Formpetugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_barang.resx">
+      <DependentUpon>pop_up_barang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_nasabah.resx">
+      <DependentUpon>pop_up_nasabah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_transaksi.resx">
+      <DependentUpon>pop_up_transaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_transaksi_petugas.resx">
+      <DependentUpon>pop_up_transaksi_petugas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SURAT_PEGADAIAN_PETUGAS.resx">
+      <DependentUpon>SURAT_PEGADAIAN_PETUGAS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SURAT_PENGGADAIAN.resx">
+      <DependentUpon>SURAT_PENGGADAIAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SURAT_TEBUSAN.resx">
+      <DependentUpon>SURAT_TEBUSAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SURAT_TEBUSAN_PETUGAS.resx">
+      <DependentUpon>SURAT_TEBUSAN_PETUGAS.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Login_73221 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_User_27887.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_clock_44878.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Calendar_27835.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_add2_60016.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_edit_84875.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Gnome-Edit-Clear-48_55278.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Exit_32467.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_delete_60017.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_delete_600171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_kappfinder_3358.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_kappfinder_33581.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_search_4103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-print-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_gtk-refresh_29878.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxCrystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxCrystalActiveXReportViewerLib13">
+      <Guid>{B816E96D-D151-4000-BADB-53A2D8F3FC65}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Crystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalActiveXReportViewerLib13">
+      <Guid>{B816E96D-D151-4000-BADB-53A2D8F3FC65}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_export-24_46622.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

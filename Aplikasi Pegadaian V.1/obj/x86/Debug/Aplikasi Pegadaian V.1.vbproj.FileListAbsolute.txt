@@ -1,0 +1,143 @@
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Resources.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.GenerateResource.Cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formpetugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formadmin.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formlogin.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_perpanjangan.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.config
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_T_PEGADAIAN.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\RdlCompile.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_T_TEBUSAN.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.config
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_perpanjangan.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formlogin.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formadmin.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formpetugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Resources.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_T_PEGADAIAN.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_T_TEBUSAN.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.GenerateResource.Cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\RdlCompile.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian V.1 - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.config
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.ResolveComReference.cache
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_perpanjangan.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formlogin.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formadmin.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formpetugas.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Resources.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.GenerateResource.Cache
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\Interop.Crystal.dll
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi\Aplikasi Pegadaian V.1\obj\x86\Debug\Interop.CRVIEWERLib.dll
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.config
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.ResolveComReference.cache
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_perpanjangan.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formlogin.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formadmin.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formpetugas.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Resources.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_PENGGADAIAN.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.GenerateResource.Cache
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_TEBUSAN.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_TEBUSAN_PETUGAS.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_PEGADAIAN_PETUGAS.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang_petugas.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah_petugas.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi_petugas.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_gadai.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_gadai_petugas.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_tebusan.resources
+C:\Users\kumpu\Desktop\Aplikasi Pegadaian Jadi - Copy\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_tebusan_petugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.config
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.ResolveComReference.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.application
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.exe
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.pdb
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Aplikasi Pegadaian V.1.xml
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_gadai.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_gadai_petugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_tebusan.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.konfirmasi_tebusan_petugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang_petugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah_petugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_perpanjangan.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formlogin.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formadmin.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Formpetugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.Resources.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_barang.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_nasabah.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.pop_up_transaksi_petugas.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_PEGADAIAN_PETUGAS.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_PENGGADAIAN.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_TEBUSAN.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi_Pegadaian.SURAT_TEBUSAN_PETUGAS.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.vbproj.GenerateResource.Cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.exe.manifest
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\Aplikasi Pegadaian Jadi ODBC\Aplikasi Pegadaian V.1\obj\x86\Debug\Aplikasi Pegadaian V.1.application
